@@ -229,3 +229,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+
+# python stdlib files (added from nuget package)
+spg4Net/spg4Net/Lib/
