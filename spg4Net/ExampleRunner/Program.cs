@@ -11,9 +11,9 @@ namespace ExampleRunner
     {
         static void Main(string[] args)
         {
-            Class1 classsss = new Class1();
-            classsss.test();
-
+            Vangard vangard = new Vangard();
+            vangard.RunStandardVangardTest();
+            Console.ReadKey();
         }
     }
 }
